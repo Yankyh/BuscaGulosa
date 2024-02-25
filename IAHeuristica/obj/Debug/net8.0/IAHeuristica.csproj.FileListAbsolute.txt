@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\IAHeuristica\IAHeuristica\obj\Debug\net8.0\IAHeuristica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\IAHeuristica\IAHeuristica\obj\Debug\net8.0\IAHeuristica.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\IAHeuristica\IAHeuristica\obj\Debug\net8.0\IAHeuristica.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\IAHeuristica\IAHeuristica\obj\Debug\net8.0\IAHeuristica.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\IAHeuristica\IAHeuristica\bin\Debug\net8.0\IAHeuristica.exe
+C:\Users\Administrator\source\repos\IAHeuristica\IAHeuristica\bin\Debug\net8.0\IAHeuristica.deps.json
+C:\Users\Administrator\source\repos\IAHeuristica\IAHeuristica\bin\Debug\net8.0\IAHeuristica.runtimeconfig.json
+C:\Users\Administrator\source\repos\IAHeuristica\IAHeuristica\bin\Debug\net8.0\IAHeuristica.dll
+C:\Users\Administrator\source\repos\IAHeuristica\IAHeuristica\bin\Debug\net8.0\IAHeuristica.pdb
+C:\Users\Administrator\source\repos\IAHeuristica\IAHeuristica\obj\Debug\net8.0\IAHeuristica.dll
+C:\Users\Administrator\source\repos\IAHeuristica\IAHeuristica\obj\Debug\net8.0\refint\IAHeuristica.dll
+C:\Users\Administrator\source\repos\IAHeuristica\IAHeuristica\obj\Debug\net8.0\IAHeuristica.pdb
+C:\Users\Administrator\source\repos\IAHeuristica\IAHeuristica\obj\Debug\net8.0\IAHeuristica.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\IAHeuristica\IAHeuristica\obj\Debug\net8.0\ref\IAHeuristica.dll
